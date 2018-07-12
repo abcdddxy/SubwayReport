@@ -1,0 +1,10 @@
+start_top10, end_top10, start_top10_percent, end_top10_precent, city, start_month, end_month
+{city}从{start_month}到{end_month}期间，
+进站量排名前十名的站点为：{start_top10[0]}, {start_top10[1]},
+{start_top10[2]}, {start_top10[3]}, {start_top10[4]}, {start_top10[5]},
+{start_top10[6]}, {start_top10[7]}, {start_top10[8]}, {start_top10[9]}
+前十站点占总进站量的{start_top10_percent:.4f}%
+出站量排名前十的站点为：{end_top10[0]}, {end_top10[1]},
+{end_top10[2]}, {end_top10[3]}, {end_top10[4]}, {end_top10[5]},
+{end_top10[6]}, {end_top10[7]}, {end_top10[8]}, {end_top10[9]}
+前十站点占总出站量的{end_top10_precent:.4f}%

@@ -1,0 +1,9 @@
+city, time, modules, user, version
+----这是一个测试模板----
+输入参数:{city}, {time}, {modules}, {user}, {version}
+分析城市:{city},
+运行时间:{time},
+所用模块:{modules},
+用户名称:{user},
+系统版本:{version}
+----这是一个测试模板----
